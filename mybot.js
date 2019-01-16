@@ -2223,6 +2223,6 @@ hours = 12;
 
 
 client.login(process.env.BOT_TOKEN);
-client.on();
+client.on(NTM1MTA4MjU3MzMzNjQxMjE2.DyDWcQ.QF26H6r-WrNd73Rjt2IAbwAmGMU);
 
 			      
